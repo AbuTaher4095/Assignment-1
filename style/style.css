@@ -57,3 +57,72 @@ header{
     background-repeat: repeat-x;
     
 }
+.banner-2{
+    display: flex;
+    justify-content: center;
+    margin: 200px 280px;
+   
+}
+.banner-content{
+    max-width: 580px;
+}
+.banner-profile-picture{
+   
+    width: 503px;
+    height: 380px;
+    margin: auto;
+    border-radius: 45px;
+    
+}
+.banner-description{
+ font-size: 24px;
+ color: #43424d;
+
+}
+.container {
+  background-color: #e8e9ff;
+  border-radius: 16px;
+  padding: 40px 60px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.container h2 {
+  color: #1a1a1a;
+  margin-bottom: 30px;
+  font-size: 50px;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.stat-box {
+  text-align: center;
+}
+
+.number {
+  font-size: 80px;
+  font-weight: 100px;
+  color: #5a59ff;
+  padding: 50px 80px;
+}
+
+.label {
+  font-size: 20px;
+  color: #666;
+  margin-top: 8px;
+}
+
+
+.taher{
+  
+   justify-content: center;
+    border-radius: 10px;
+    padding: 50px 80px;
+    
+    margin: 200px 200px;
+}
