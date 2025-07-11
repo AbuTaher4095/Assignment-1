@@ -244,9 +244,9 @@ footer textarea {
     padding: 2px 6px 10px 500px;
     color: #252432;
     flex-direction: row;
-    margin: 40px 400px;
-    width: 528px;
-    height: 232px;
+    margin: 40px 300px;
+    width: 50px;
+    height: 22px;
 
 }
 
@@ -298,7 +298,7 @@ footer textarea {
       justify-content: center;
       align-items: center;
       font-family: Arial, sans-serif;
-      background-color: #f8faff; /* Optional light background */
+      
     }
 
     .animated-button {
